@@ -1,0 +1,26 @@
+
+body {
+	line-height: 1.5em;
+}
+
+article {
+	width: 300px;
+	margin: 0 auto;
+}
+
+#dice {
+}
+
+#vecx {
+	color: red;
+}
+
+#vecy {
+	color: blue;
+}
+
+p {
+	text-align: center;
+	font-size: small;
+	color: grey;
+}
